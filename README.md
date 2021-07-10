@@ -1,2 +1,2 @@
-# C-lculo-de-Programas
+# Calculo-de-Programas
 Cálculo de Programas
